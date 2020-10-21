@@ -7,7 +7,7 @@
  * pava -- items of status used for bargaining.
  *
  * @author Mithat Konar
- * @author Suhaib
+ * @author Suhaib Abugdera
  */
 public class Tavunu {
     /* See readme.md for what to do. */
