@@ -9,11 +9,11 @@
  * @author Mithat Konar
  * @author Suhaib Abugdera
  */
-public class Tavunu {
+public abstract class Tavunu {
     /* See readme.md for what to do. */
-    private String name;
-    private int pava;
-    private int birthYear;
+    protected String name;
+    protected int pava;
+    protected int birthYear;
     
     public Tavunu()
     {
